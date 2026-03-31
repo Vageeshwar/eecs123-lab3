@@ -1,0 +1,7 @@
+numpy
+scipy
+matplotlib
+librosa
+scikit-image
+Pillow
+IPython
